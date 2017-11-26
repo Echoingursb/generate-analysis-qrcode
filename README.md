@@ -153,5 +153,5 @@ public class ReadQRCode {
 
 # 传送门
 
-- [github项目地址](http://note.youdao.com/)
+- [github项目地址](https://github.com/Echoingursb/generate-analysis-qrcode)
 - [QR二维码日文官网](http://www.qrcode.com/zh/index.html)
